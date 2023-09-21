@@ -1,0 +1,6 @@
+framework module Pods_JannatifarTinaFinalProject_JannatifarTinaFinalProjectUITests {
+  umbrella header "Pods-JannatifarTinaFinalProject-JannatifarTinaFinalProjectUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

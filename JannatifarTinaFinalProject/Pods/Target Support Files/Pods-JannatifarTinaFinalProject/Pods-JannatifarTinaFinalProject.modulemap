@@ -1,0 +1,6 @@
+framework module Pods_JannatifarTinaFinalProject {
+  umbrella header "Pods-JannatifarTinaFinalProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
